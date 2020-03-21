@@ -1,1 +1,1 @@
-# avito
+# newsbot
